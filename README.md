@@ -1,3 +1,3 @@
-# plancks-docker
+# Plancks Docker
 
-Provides the API used by plancks-cloud to communicate with Docker
+A library for communicating with the Docker daemon
